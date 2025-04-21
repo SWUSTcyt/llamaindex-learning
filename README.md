@@ -2,6 +2,8 @@
 
 这个仓库包含了使用LlamaIndex进行大模型应用开发的学习笔记和示例代码。
 
+微信公众号：AGI启程号
+
 ## 项目描述
 
 本项目主要包含以下内容：
@@ -11,7 +13,7 @@
 
 ## 文件说明
 
-- `05-llamaindex-公众号文章1-basic&agent-简化版.ipynb`: LlamaIndex基础教程和Agent开发的简化版本
+- `llamaindex-01-basic&agent.ipynb`: LlamaIndex基础教程和Agent开发
 - 其他相关的学习资料和代码示例
 
 ## 环境要求
