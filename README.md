@@ -9,11 +9,13 @@
 本项目主要包含以下内容：
 - LlamaIndex基础使用教程
 - Agent开发示例
+- Workflow开发示例
 - RAG（检索增强生成）应用实践
 
 ## 文件说明
 
 - `llamaindex-01-basic&agent.ipynb`: LlamaIndex基础教程和Agent开发
+- `llamaindex-02-workflow.ipynb`: LlamaIndex workflow开发
 - 其他相关的学习资料和代码示例
 
 ## 环境要求
