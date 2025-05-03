@@ -55,4 +55,10 @@ storage/
 *_cache/
 *_embeddings/
 llamaindex_cache/
-llamaindex_data/ 
+llamaindex_data/
+
+# 工作流可视化文件
+*.html
+
+# WikiTableQuestions数据集相关
+data/WikiTableQuestions*/
