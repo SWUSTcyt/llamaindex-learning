@@ -16,6 +16,8 @@
 
 - `llamaindex-01-basic&agent.ipynb`: LlamaIndex基础教程和Agent开发
 - `llamaindex-02-workflow.ipynb`: LlamaIndex workflow开发
+- `llamaindex-03-RAG系统构建基础.ipynb`: RAG系统构建基础
+- `llamaindex-04-Text2SQL实战.ipynb`：Text2SQL实战
 - 其他相关的学习资料和代码示例
 
 ## 环境要求
